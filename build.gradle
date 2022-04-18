@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.study_Java_oop'
+group 'com.heracomp.study_Java_oop'
 version '1.0-SNAPSHOT'
 
 repositories {

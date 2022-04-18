@@ -8,6 +8,7 @@ class MainTest {
 
     @Test
     void main(){
+
         //Given
         String[] args = {"3","1","9","6","2"};
 
